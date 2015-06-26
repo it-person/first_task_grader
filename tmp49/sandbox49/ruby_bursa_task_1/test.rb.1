@@ -1,0 +1,23 @@
+#require 'Time'
+require 'DateTime'
+
+d = DateTime.now
+p d
+p d.year
+p d.month
+p d.day
+p d.hour
+p d.min
+p d.sec
+d2 = DateTime.now
+p d2
+p1 = d - d2
+p p1
+
+rd = Date.new(2015-07-22)
+p rd
+d3 = Date.today
+p d3
+
+d4 = Date.new_start(0000-0-0) - Date.new(2015-07-22)
+p d4

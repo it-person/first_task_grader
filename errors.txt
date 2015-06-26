@@ -1,0 +1,577 @@
+================================================================================
+checking Мананников Сергей, 0
+[0, "Мананников Сергей", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Воликов Георгий, 1
+[1, "Воликов Георгий", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Хлипиткин Алексей, 2
+[2, "Хлипиткин Алексей", 46, 10, 10, 10, 10, 6]
+================================================================================
+checking Медведчук Александр, 3
+[3, "Медведчук Александр", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Лосев Илья, 4
+[4, "Лосев Илья", 46, 10, 6, 10, 10, 10]
+================================================================================
+checking Бутырский Алексей, 5
+[5, "Бутырский Алексей", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Дятлов Владислав, 6
+File /home/petro/projects/rubybursa/smart_script/tmp6/ruby_bursa_task_1.zip not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:82:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking Яковенко Денис, 7
+[7, "Яковенко Денис", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Lytvyn Aleksandr, 8
+[8, "Lytvyn Aleksandr", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Волков Евгений, 9
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[9, "Волков Евгений"]
+================================================================================
+checking Вороной Александр, 10
+[10, "Вороной Александр", 42, 10, 10, 2, 10, 10]
+================================================================================
+checking Сирченко Александр, 11
+[11, "Сирченко Александр", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Драпой Сергей, 12
+[12, "Драпой Сергей", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Драпой Сергей, 13
+[13, "Драпой Сергей", 42, 10, 10, 10, 10, 2]
+================================================================================
+checking Троянов Никита, 14
+[14, "Троянов Никита", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Деревянко Любовь HW1, 15
+[15, "Деревянко Любовь HW1", 42, 10, 10, 2, 10, 10]
+================================================================================
+checking Хомич Владимир, 16
+[16, "Хомич Владимир", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Сирченко Александр, 17
+[17, "Сирченко Александр", 46, 10, 10, 10, 10, 6]
+================================================================================
+checking Re: hw2 и последующие hw, 18
+File /home/petro/projects/rubybursa/smart_script/tmp18/ruby_bursa_task_1.zip not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:82:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking hw2 и последующие hw, 19
+File /home/petro/projects/rubybursa/smart_script/tmp19/ruby_bursa_task_1.zip not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:82:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking Борисюк Светлана, 20
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[20, "Борисюк Светлана"]
+================================================================================
+checking Климов Максим, 21
+[21, "Климов Максим", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Любко Вадим, 22
+[22, "Любко Вадим", 42, 10, 10, 2, 10, 10]
+================================================================================
+checking Мананников Сергей, 23
+[23, "Мананников Сергей", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Лосев Илья, 24
+[24, "Лосев Илья", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Беспалько Тетяна, 25
+/home/petro/projects/rubybursa/smart_script/tmp25/sandbox25/ruby_bursa_task_1/library_manager.rb:34: syntax error, unexpected '|'
+    |(year_of_birth_first..year_of_death_first).select do |n|
+     ^
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:27:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[25, "Беспалько Тетяна"]
+================================================================================
+checking Кривобородов Юрий, 26
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting '}'
+...' => 'zgh', 'а' => 'a' 'б' => 'b', 'в' => 'v', 'г' => 'h...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'zgh', 'а' => 'a' 'б' => 'b', 'в' => 'v', 'г' => 'h', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...а' => 'a' 'б' => 'b', 'в' => 'v', 'г' => 'h', 'д' => 'd...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...> 'a' 'б' => 'b', 'в' => 'v', 'г' => 'h', 'д' => 'd', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...б' => 'b', 'в' => 'v', 'г' => 'h', 'д' => 'd', 'е' => 'e...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'b', 'в' => 'v', 'г' => 'h', 'д' => 'd', 'е' => 'e', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...в' => 'v', 'г' => 'h', 'д' => 'd', 'е' => 'e', 'є' => 'i...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'v', 'г' => 'h', 'д' => 'd', 'е' => 'e', 'є' => 'ie', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...г' => 'h', 'д' => 'd', 'е' => 'e', 'є' => 'ie', 'ж' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'h', 'д' => 'd', 'е' => 'e', 'є' => 'ie', 'ж' => 'zh', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...д' => 'd', 'е' => 'e', 'є' => 'ie', 'ж' => 'zh', 'з' => ...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'d', 'е' => 'e', 'є' => 'ie', 'ж' => 'zh', 'з' => 'z', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'e', 'є' => 'ie', 'ж' => 'zh', 'з' => 'z', 'і' => '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...e', 'є' => 'ie', 'ж' => 'zh', 'з' => 'z', 'і' => 'i', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'ie', 'ж' => 'zh', 'з' => 'z', 'і' => 'i', 'и' => 'y...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...ie', 'ж' => 'zh', 'з' => 'z', 'і' => 'i', 'и' => 'y', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'zh', 'з' => 'z', 'і' => 'i', 'и' => 'y', 'й' => 'i...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'zh', 'з' => 'z', 'і' => 'i', 'и' => 'y', 'й' => 'i', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...з' => 'z', 'і' => 'i', 'и' => 'y', 'й' => 'i', 'к' => 'k...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'z', 'і' => 'i', 'и' => 'y', 'й' => 'i', 'к' => 'k', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...і' => 'i', 'и' => 'y', 'й' => 'i', 'к' => 'k', 'ї' => 'i...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'i', 'и' => 'y', 'й' => 'i', 'к' => 'k', 'ї' => 'i', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...и' => 'y', 'й' => 'i', 'к' => 'k', 'ї' => 'i', 'л' => 'l...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'y', 'й' => 'i', 'к' => 'k', 'ї' => 'i', 'л' => 'l', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...й' => 'i', 'к' => 'k', 'ї' => 'i', 'л' => 'l', 'м' => 'm...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'i', 'к' => 'k', 'ї' => 'i', 'л' => 'l', 'м' => 'm', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...к' => 'k', 'ї' => 'i', 'л' => 'l', 'м' => 'm', 'н' => 'n...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'k', 'ї' => 'i', 'л' => 'l', 'м' => 'm', 'н' => 'n', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...ї' => 'i', 'л' => 'l', 'м' => 'm', 'н' => 'n', 'ґ' => 'g...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'i', 'л' => 'l', 'м' => 'm', 'н' => 'n', 'ґ' => 'g', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...л' => 'l', 'м' => 'm', 'н' => 'n', 'ґ' => 'g', 'о' => 'o...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'l', 'м' => 'm', 'н' => 'n', 'ґ' => 'g', 'о' => 'o', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...м' => 'm', 'н' => 'n', 'ґ' => 'g', 'о' => 'o', 'п' => 'p...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'm', 'н' => 'n', 'ґ' => 'g', 'о' => 'o', 'п' => 'p', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...н' => 'n', 'ґ' => 'g', 'о' => 'o', 'п' => 'p', 'р' => 'r...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'n', 'ґ' => 'g', 'о' => 'o', 'п' => 'p', 'р' => 'r', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...ґ' => 'g', 'о' => 'o', 'п' => 'p', 'р' => 'r', 'с' => 's...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'g', 'о' => 'o', 'п' => 'p', 'р' => 'r', 'с' => 's', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...о' => 'o', 'п' => 'p', 'р' => 'r', 'с' => 's', 'т' => 't...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'o', 'п' => 'p', 'р' => 'r', 'с' => 's', 'т' => 't', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...п' => 'p', 'р' => 'r', 'с' => 's', 'т' => 't', 'у' => 'u...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'p', 'р' => 'r', 'с' => 's', 'т' => 't', 'у' => 'u', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...р' => 'r', 'с' => 's', 'т' => 't', 'у' => 'u', 'ф' => 'f...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'r', 'с' => 's', 'т' => 't', 'у' => 'u', 'ф' => 'f', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...с' => 's', 'т' => 't', 'у' => 'u', 'ф' => 'f', 'х' => 'k...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 's', 'т' => 't', 'у' => 'u', 'ф' => 'f', 'х' => 'kh', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...т' => 't', 'у' => 'u', 'ф' => 'f', 'х' => 'kh', 'ц' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 't', 'у' => 'u', 'ф' => 'f', 'х' => 'kh', 'ц' => 'ts', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...у' => 'u', 'ф' => 'f', 'х' => 'kh', 'ц' => 'ts', 'ч' => ...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'u', 'ф' => 'f', 'х' => 'kh', 'ц' => 'ts', 'ч' => 'ch', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'f', 'х' => 'kh', 'ц' => 'ts', 'ч' => 'ch', 'ш' => ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...f', 'х' => 'kh', 'ц' => 'ts', 'ч' => 'ch', 'ш' => 'sh', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'kh', 'ц' => 'ts', 'ч' => 'ch', 'ш' => 'sh', 'щ' => ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...h', 'ц' => 'ts', 'ч' => 'ch', 'ш' => 'sh', 'щ' => 'shch'...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'ts', 'ч' => 'ch', 'ш' => 'sh', 'щ' => 'shch', 'ю' =...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...s', 'ч' => 'ch', 'ш' => 'sh', 'щ' => 'shch', 'ю' => 'iu'...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'ch', 'ш' => 'sh', 'щ' => 'shch', 'ю' => 'iu', 'я' =...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+..., 'ш' => 'sh', 'щ' => 'shch', 'ю' => 'iu', 'я' => 'ia', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...> 'sh', 'щ' => 'shch', 'ю' => 'iu', 'я' => 'ia', 'А' => ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+..., 'щ' => 'shch', 'ю' => 'iu', 'я' => 'ia', 'А' => 'A', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...> 'shch', 'ю' => 'iu', 'я' => 'ia', 'А' => 'A', 'Б' => '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...h', 'ю' => 'iu', 'я' => 'ia', 'А' => 'A', 'Б' => 'B', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'iu', 'я' => 'ia', 'А' => 'A', 'Б' => 'B', 'В' => 'V...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...iu', 'я' => 'ia', 'А' => 'A', 'Б' => 'B', 'В' => 'V', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'ia', 'А' => 'A', 'Б' => 'B', 'В' => 'V', 'Г' => 'H...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'ia', 'А' => 'A', 'Б' => 'B', 'В' => 'V', 'Г' => 'H', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...А' => 'A', 'Б' => 'B', 'В' => 'V', 'Г' => 'H', 'Д' => 'D...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'A', 'Б' => 'B', 'В' => 'V', 'Г' => 'H', 'Д' => 'D', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Б' => 'B', 'В' => 'V', 'Г' => 'H', 'Д' => 'D', 'Е' => 'E...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'B', 'В' => 'V', 'Г' => 'H', 'Д' => 'D', 'Е' => 'E', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...В' => 'V', 'Г' => 'H', 'Д' => 'D', 'Е' => 'E', 'Є' => 'Y...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'V', 'Г' => 'H', 'Д' => 'D', 'Е' => 'E', 'Є' => 'Ye', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Г' => 'H', 'Д' => 'D', 'Е' => 'E', 'Є' => 'Ye', 'Ж' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'H', 'Д' => 'D', 'Е' => 'E', 'Є' => 'Ye', 'Ж' => 'Zh', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Д' => 'D', 'Е' => 'E', 'Є' => 'Ye', 'Ж' => 'Zh', 'З' => ...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'D', 'Е' => 'E', 'Є' => 'Ye', 'Ж' => 'Zh', 'З' => 'Z', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'E', 'Є' => 'Ye', 'Ж' => 'Zh', 'З' => 'Z', 'І' => '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...E', 'Є' => 'Ye', 'Ж' => 'Zh', 'З' => 'Z', 'І' => 'I', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'Ye', 'Ж' => 'Zh', 'З' => 'Z', 'І' => 'I', 'И' => 'Y...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...Ye', 'Ж' => 'Zh', 'З' => 'Z', 'І' => 'I', 'И' => 'Y', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'Zh', 'З' => 'Z', 'І' => 'I', 'И' => 'Y', 'Й' => 'Y...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'Zh', 'З' => 'Z', 'І' => 'I', 'И' => 'Y', 'Й' => 'Y', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...З' => 'Z', 'І' => 'I', 'И' => 'Y', 'Й' => 'Y', 'К' => 'K...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'Z', 'І' => 'I', 'И' => 'Y', 'Й' => 'Y', 'К' => 'K', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...І' => 'I', 'И' => 'Y', 'Й' => 'Y', 'К' => 'K', 'Ї' => 'Y...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'I', 'И' => 'Y', 'Й' => 'Y', 'К' => 'K', 'Ї' => 'Yi', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...И' => 'Y', 'Й' => 'Y', 'К' => 'K', 'Ї' => 'Yi', 'Л' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'Y', 'Й' => 'Y', 'К' => 'K', 'Ї' => 'Yi', 'Л' => 'L', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Й' => 'Y', 'К' => 'K', 'Ї' => 'Yi', 'Л' => 'L', 'М' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'Y', 'К' => 'K', 'Ї' => 'Yi', 'Л' => 'L', 'М' => 'M', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'K', 'Ї' => 'Yi', 'Л' => 'L', 'М' => 'M', 'Н' => 'N...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'K', 'Ї' => 'Yi', 'Л' => 'L', 'М' => 'M', 'Н' => 'N', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'Yi', 'Л' => 'L', 'М' => 'M', 'Н' => 'N', 'Ґ' => 'G...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'Yi', 'Л' => 'L', 'М' => 'M', 'Н' => 'N', 'Ґ' => 'G', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Л' => 'L', 'М' => 'M', 'Н' => 'N', 'Ґ' => 'G', 'О' => 'O...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'L', 'М' => 'M', 'Н' => 'N', 'Ґ' => 'G', 'О' => 'O', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...М' => 'M', 'Н' => 'N', 'Ґ' => 'G', 'О' => 'O', 'П' => 'P...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'M', 'Н' => 'N', 'Ґ' => 'G', 'О' => 'O', 'П' => 'P', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Н' => 'N', 'Ґ' => 'G', 'О' => 'O', 'П' => 'P', 'Р' => 'R...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'N', 'Ґ' => 'G', 'О' => 'O', 'П' => 'P', 'Р' => 'R', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Ґ' => 'G', 'О' => 'O', 'П' => 'P', 'Р' => 'R', 'С' => 'S...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'G', 'О' => 'O', 'П' => 'P', 'Р' => 'R', 'С' => 'S', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...О' => 'O', 'П' => 'P', 'Р' => 'R', 'С' => 'S', 'Т' => 'T...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'O', 'П' => 'P', 'Р' => 'R', 'С' => 'S', 'Т' => 'T', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...П' => 'P', 'Р' => 'R', 'С' => 'S', 'Т' => 'T', 'У' => 'U...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'P', 'Р' => 'R', 'С' => 'S', 'Т' => 'T', 'У' => 'U', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Р' => 'R', 'С' => 'S', 'Т' => 'T', 'У' => 'U', 'Ф' => 'F...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'R', 'С' => 'S', 'Т' => 'T', 'У' => 'U', 'Ф' => 'F', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...С' => 'S', 'Т' => 'T', 'У' => 'U', 'Ф' => 'F', 'Х' => 'K...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'S', 'Т' => 'T', 'У' => 'U', 'Ф' => 'F', 'Х' => 'Kh', '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...Т' => 'T', 'У' => 'U', 'Ф' => 'F', 'Х' => 'Kh', 'Ц' => '...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+... 'T', 'У' => 'U', 'Ф' => 'F', 'Х' => 'Kh', 'Ц' => 'Ts', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...У' => 'U', 'Ф' => 'F', 'Х' => 'Kh', 'Ц' => 'Ts', 'Ч' => ...
+...                                ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...'U', 'Ф' => 'F', 'Х' => 'Kh', 'Ц' => 'Ts', 'Ч' => 'Ch', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'F', 'Х' => 'Kh', 'Ц' => 'Ts', 'Ч' => 'Ch', 'Ш' => ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...F', 'Х' => 'Kh', 'Ц' => 'Ts', 'Ч' => 'Ch', 'Ш' => 'Sh', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'Kh', 'Ц' => 'Ts', 'Ч' => 'Ch', 'Ш' => 'Sh', 'Щ' => ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...h', 'Ц' => 'Ts', 'Ч' => 'Ch', 'Ш' => 'Sh', 'Щ' => 'Shch'...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'Ts', 'Ч' => 'Ch', 'Ш' => 'Sh', 'Щ' => 'Shch', 'Ю' =...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...s', 'Ч' => 'Ch', 'Ш' => 'Sh', 'Щ' => 'Shch', 'Ю' => 'Yu'...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+... => 'Ch', 'Ш' => 'Sh', 'Щ' => 'Shch', 'Ю' => 'Yu', 'Я' =...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+..., 'Ш' => 'Sh', 'Щ' => 'Shch', 'Ю' => 'Yu', 'Я' => 'Ya', ...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...> 'Sh', 'Щ' => 'Shch', 'Ю' => 'Yu', 'Я' => 'Ya', ' ' => '...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+..., 'Щ' => 'Shch', 'Ю' => 'Yu', 'Я' => 'Ya', ' ' => ' '}
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...> 'Shch', 'Ю' => 'Yu', 'Я' => 'Ya', ' ' => ' '}
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected ',', expecting keyword_end
+...h', 'Ю' => 'Yu', 'Я' => 'Ya', ' ' => ' '}
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected =>, expecting keyword_end
+...' => 'Yu', 'Я' => 'Ya', ' ' => ' '}
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp26/sandbox26/library_manager.rb:67: syntax error, unexpected '}', expecting keyword_end
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:28:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[26, "Кривобородов Юрий"]
+================================================================================
+checking Калиновская Дарья HW1, 27
+/home/petro/projects/rubybursa/smart_script/tmp27/sandbox27/ruby_bursa_task_1/library_manager.rb:89: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+...in_time =0    penalty_to_finish=((peges_quantity-current_pag...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp27/sandbox27/ruby_bursa_task_1/library_manager.rb:90: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+...e_in_time <0  penalty_to_finish =(difference_in_time.abs*0.0...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp27/sandbox27/ruby_bursa_task_1/library_manager.rb:91: syntax error, unexpected tIDENTIFIER, expecting keyword_then or ';' or '\n'
+...ce_in_time>0  penalty_to_finish=((pages_quantity-current_pag...
+...                               ^
+/home/petro/projects/rubybursa/smart_script/tmp27/sandbox27/ruby_bursa_task_1/library_manager.rb:97: syntax error, unexpected keyword_end, expecting end-of-input
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:27:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[27, "Калиновская Дарья HW1"]
+================================================================================
+checking Коссе Дмитрий, 28
+Zip end of central directory signature not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:143:in `get_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:103:in `read_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:136:in `read_from_stream'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:77:in `block in initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `open'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking Марущенко Сергей, 29
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[29, "Марущенко Сергей"]
+================================================================================
+checking Шаповалов Евгений, 30
+/home/petro/projects/rubybursa/smart_script/tmp30/sandbox30/library_manager.rb:140: syntax error, unexpected keyword_end, expecting ')'
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:28:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[30, "Шаповалов Евгений"]
+================================================================================
+checking Д, 31
+/home/petro/projects/rubybursa/smart_script/tmp31/sandbox31/library_manager.rb:140: syntax error, unexpected keyword_end, expecting ')'
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:28:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[31, "Д"]
+================================================================================
+checking Данилов Евгений, 32
+[32, "Данилов Евгений", 38, 10, 10, 10, 2, 6]
+================================================================================
+checking Рубан Игорь, 33
+Zip end of central directory signature not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:143:in `get_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:103:in `read_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:136:in `read_from_stream'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:77:in `block in initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `open'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking Беспалько Тетяна, 34
+/home/petro/projects/rubybursa/smart_script/tmp34/sandbox34/ruby_bursa_task_1/library_manager.rb:34: syntax error, unexpected '|'
+    |(year_of_birth_first..year_of_death_first).select do |n|
+     ^
+/home/petro/projects/rubybursa/smart_script/tmp34/sandbox34/ruby_bursa_task_1/library_manager.rb:94: syntax error, unexpected end-of-input, expecting keyword_end
+["/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/site_ruby/2.2.0/rubygems/core_ext/kernel_require.rb:121:in `require'", "/home/petro/projects/rubybursa/smart_script/Rakefile:27:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[34, "Беспалько Тетяна"]
+================================================================================
+checking Медведчук Александр, 35
+[35, "Медведчук Александр", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Шестопалов Андрей, 36
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[36, "Шестопалов Андрей"]
+================================================================================
+checking Машошин Андрей, 37
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[37, "Машошин Андрей"]
+================================================================================
+checking Barvinskyi Roman, 38
+[38, "Barvinskyi Roman", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Хорло Ігорь, 39
+[39, "Хорло Ігорь", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Юрий Хоменок, 40
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[40, "Юрий Хоменок"]
+================================================================================
+checking Галенко Евгений HW1, 41
+Zip end of central directory signature not found
+["/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:143:in `get_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:103:in `read_e_o_c_d'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/central_directory.rb:136:in `read_from_stream'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:77:in `block in initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `open'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:76:in `initialize'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `new'", "/home/petro/.rvm/gems/ruby-2.2.2/gems/rubyzip-1.1.7/lib/zip/file.rb:96:in `open'", "/home/petro/projects/rubybursa/smart_script/Rakefile:23:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+================================================================================
+checking Антон Мухин, 42
+uninitialized constant LibraryManager
+["/home/petro/projects/rubybursa/smart_script/Rakefile:30:in `block (2 levels) in <top (required)>'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `each'", "/home/petro/projects/rubybursa/smart_script/Rakefile:11:in `block in <top (required)>'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `call'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:240:in `block in execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:235:in `execute'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:172:in `invoke_with_call_chain'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/task.rb:165:in `invoke'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:150:in `invoke_task'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `each'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:106:in `block in top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:115:in `run_with_threads'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:100:in `top_level'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:78:in `block in run'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:176:in `standard_exception_handling'", "/home/petro/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/rake/application.rb:75:in `run'", "/home/petro/.rvm/rubies/ruby-2.2.2/bin/rake:33:in `<main>'"]
+[42, "Антон Мухин"]
+================================================================================
+checking Дерке Елена, 43
+[43, "Дерке Елена", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Дятлов Владислав, 44
+Late hours: 0Late hours: 12[44, "Дятлов Владислав", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Аверьянов Александр, 45
+[45, "Аверьянов Александр", 50, 10, 10, 10, 10, 10]
+================================================================================
+checking Пожидаев Алексей, 46
+[46, "Пожидаев Алексей", 42, 10, 10, 10, 2, 10]
+================================================================================
+checking Tymoshenko Roman, 47
+[47, "Tymoshenko Roman", 34, 10, 6, 2, 10, 6]
+================================================================================
+checking Tymoshenko Roman, 48
+[48, "Tymoshenko Roman", 14, 2, 6, 2, 2, 2]
+================================================================================
+checking Metelap Vladimir, 49
+[49, "Metelap Vladimir", 30, 6, 6, 10, 2, 6]
